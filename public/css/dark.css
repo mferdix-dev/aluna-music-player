@@ -1,0 +1,48 @@
+/* Jadwal lokal: mode gelap 18.00-05.59. */
+html[data-theme="dark"]{color-scheme:dark;background:#111827}
+html[data-theme="dark"] body,html[data-theme="dark"] .app-shell,html[data-theme="dark"] .main-content,html[data-theme="dark"] .main-scroll{background:#111827;color:#d7deee}
+html[data-theme="dark"] .sidebar{background:#171f30;border-color:#26334a}
+html[data-theme="dark"] .brand,html[data-theme="dark"] h1,html[data-theme="dark"] .section-header h2,html[data-theme="dark"] .track-name,html[data-theme="dark"] .album-card strong,html[data-theme="dark"] .player-song-text strong,html[data-theme="dark"] .sidebar-note strong,html[data-theme="dark"] .empty-state strong{color:#eef2fc}
+html[data-theme="dark"] .sidebar-divider,html[data-theme="dark"] .table-head,html[data-theme="dark"] .player{border-color:#29344a}
+html[data-theme="dark"] .sidebar-divider{background:#29344a}
+html[data-theme="dark"] .sidebar-note{background:#222e49;color:#aab9d6}
+html[data-theme="dark"] .nav-item{color:#9aabc6}
+html[data-theme="dark"] .nav-item:hover,html[data-theme="dark"] .plain-icon:hover,html[data-theme="dark"] .track-row:hover{background:#263550;color:#dce8ff}
+html[data-theme="dark"] .nav-item.active,html[data-theme="dark"] .nav-item.active:hover,html[data-theme="dark"] .track-row.playing,html[data-theme="dark"] .track-row.playing:hover{background:#486bc4;color:#fff}
+html[data-theme="dark"] .search-field,html[data-theme="dark"] .search-field:focus-within,html[data-theme="dark"] .search-field kbd{background:#1d293c;border-color:#33415a;color:#b1c2de}
+html[data-theme="dark"] .search-field input{color:#eff3fc}
+html[data-theme="dark"] .search-field input::placeholder{color:#8393ad}
+html[data-theme="dark"] .page-title-row p,html[data-theme="dark"] .date-label,html[data-theme="dark"] .track-count,html[data-theme="dark"] .track-sub,html[data-theme="dark"] .album-card>span:last-child,html[data-theme="dark"] .row-number,html[data-theme="dark"] .sidebar-footer{color:#95a5c0}
+html[data-theme="dark"] .table-head,html[data-theme="dark"] .sidebar-section-label,html[data-theme="dark"] .sidebar-heading,html[data-theme="dark"] .section-kicker{color:#8294b1}
+html[data-theme="dark"] .track-row{color:#aab9d1}
+html[data-theme="dark"] .track-row.playing .track-name,html[data-theme="dark"] .track-row.playing .track-sub,html[data-theme="dark"] .track-row.playing .row-number{color:#fff}
+html[data-theme="dark"] .right-panel{background:#354f9c}
+html[data-theme="dark"] .recent-item:hover,html[data-theme="dark"] .recent-item.active{background:#243862;color:#ecf2ff}
+html[data-theme="dark"] .player{background:#171f30}
+html[data-theme="dark"] .player-controls{color:#dce5f6}
+html[data-theme="dark"] .player-song-text span,html[data-theme="dark"] .timeline,html[data-theme="dark"] .player-extra{color:#96a6bf}
+html[data-theme="dark"] input[type=range]{background:#3c4c69}
+html[data-theme="dark"] .track-menu,html[data-theme="dark"] .account-dropdown,html[data-theme="dark"] .modal{background:#202b3f;border-color:#33415b;color:#ecf2fc}
+html[data-theme="dark"] .track-menu button,html[data-theme="dark"] .account-dropdown a,html[data-theme="dark"] .account-dropdown button,html[data-theme="dark"] .modal h2,html[data-theme="dark"] .form-field{color:#e2eafa}
+html[data-theme="dark"] .track-menu button:hover,html[data-theme="dark"] .account-dropdown a:hover,html[data-theme="dark"] .account-dropdown button:hover{background:#30405e}
+html[data-theme="dark"] .form-field input,html[data-theme="dark"] .modal input:not([type=range]){background:#172236;border-color:#3b4c68;color:#f3f6ff}
+html[data-theme="dark"] .modal p,html[data-theme="dark"] .empty-state{color:#a7b7d0}
+html[data-theme="dark"] .empty-state{border-color:#37465e}
+html[data-theme="dark"] .mobile-nav button{background:#202c41;border-color:#3b4b64;color:#c7d4e9}
+html[data-theme="dark"] .mobile-nav button.active{background:#486bc4;border-color:#486bc4;color:#fff}
+html[data-theme="dark"] .mobile-playlist-list button{background:#1b2a42;border-color:#3b4b64;color:#edf2fc}
+html[data-theme="dark"] .account-page{background:#111827;color:#e6edfc}
+html[data-theme="dark"] .account-hero{background:#2d448a}
+html[data-theme="dark"] .account-main{background:#111827}
+html[data-theme="dark"] .account-content h2,html[data-theme="dark"] .account-content h3,html[data-theme="dark"] .account-form label,html[data-theme="dark"] .profile-summary strong{color:#edf2fc}
+html[data-theme="dark"] .account-form input:not([type=checkbox]){background:#1d293c;border-color:#3a4861;color:#f3f6ff}
+html[data-theme="dark"] .account-form input::placeholder{color:#8495af}
+html[data-theme="dark"] .profile-summary{background:#202c41;border-color:#34435b}
+html[data-theme="dark"] .profile-separator,html[data-theme="dark"] .account-divider:before,html[data-theme="dark"] .account-divider:after{background:#34435b}
+html[data-theme="dark"] .account-success{background:#193e37;color:#9eebc9}
+html[data-theme="dark"] .account-switch,html[data-theme="dark"] .form-description,html[data-theme="dark"] .profile-summary small{color:#a1b0c9}
+html[data-theme="dark"] .guest-link,html[data-theme="dark"] .account-top a{color:#aebce0}
+html[data-theme="dark"] .audio-dropzone{background:#18263a;border-color:#465e85;color:#9fb1cf}
+html[data-theme="dark"] .audio-dropzone strong{color:#dae5fc}
+html[data-theme="dark"] .audio-dropzone.dragging,html[data-theme="dark"] .audio-dropzone:focus-visible{background:#253b60;border-color:#7598ed}
+html[data-theme="dark"] .audio-dropzone.has-file{background:#1d3a36;border-color:#5aa486}
